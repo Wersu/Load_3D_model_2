@@ -145,8 +145,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="BillboardList.h" />
-    <ClInclude Include="BillboardTechnique.h" />
     <ClInclude Include="Camera.h" />
     <ClInclude Include="ForShader.h" />
     <ClInclude Include="Game.h" />
@@ -159,8 +157,6 @@
     <ClInclude Include="Vector2D.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BillboardList.cpp" />
-    <ClCompile Include="BillboardTechnique.cpp" />
     <ClCompile Include="ForShader.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="InputHandler.cpp" />

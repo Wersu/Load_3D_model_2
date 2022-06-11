@@ -45,12 +45,6 @@
     <ClInclude Include="TextRendering.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BillboardList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BillboardTechnique.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ForShader.cpp">
@@ -78,12 +72,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TextRendering.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BillboardList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BillboardTechnique.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
